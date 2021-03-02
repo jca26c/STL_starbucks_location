@@ -1,0 +1,317 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 4,
+        "Address": "7036 Clayton Ave",
+        "X": 38.63316,
+        "Y": -90.30614,
+        "NHD_NUM": 44,
+        "NHD_NAME": "Hi-Pointe",
+        "ANGLE": 0,
+        "NHD_NUMTXT": "44 Hi-Pointe",
+        "NHD_NUM_ST": 44,
+        "Shape__Area": 7763129.855,
+        "Shape__Length": 12089.36889
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.30614,
+          38.63316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 5,
+        "Address": "6622 Chippewa St.",
+        "X": 38.59061,
+        "Y": -90.305,
+        "NHD_NUM": 8,
+        "NHD_NAME": "St. Louis Hills",
+        "ANGLE": 0,
+        "NHD_NUMTXT": "  8 St. Louis Hills",
+        "NHD_NUM_ST": 8,
+        "Shape__Area": 32908135.69,
+        "Shape__Length": 32922.06656
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.305,
+          38.59061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 9,
+        "Address": "1 Government Dr.",
+        "X": 38.63556,
+        "Y": -90.29041,
+        "NHD_NUM": 82,
+        "NHD_NAME": "Forest Park",
+        "ANGLE": 0,
+        "NHD_NUMTXT": "82 Forest Park",
+        "NHD_NUM_ST": 82,
+        "Shape__Area": 59270680.69,
+        "Shape__Length": 34399.18093
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.29041,
+          38.63556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 13,
+        "Address": "3700 South Kingshighway Blvd",
+        "X": 38.5929,
+        "Y": -90.27237,
+        "NHD_NUM": 14,
+        "NHD_NAME": "North Hampton",
+        "ANGLE": 0,
+        "NHD_NUMTXT": "14 North Hampton",
+        "NHD_NUM_ST": 14,
+        "Shape__Area": 25699567.41,
+        "Shape__Length": 20519.85955
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.27237,
+          38.5929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 16,
+        "Address": "4656 Maryland Avenue",
+        "X": 38.64474,
+        "Y": -90.26139,
+        "NHD_NUM": 38,
+        "NHD_NAME": "Central West End",
+        "ANGLE": 0,
+        "NHD_NUMTXT": "38 Central West End",
+        "NHD_NUM_ST": 38,
+        "Shape__Area": 52706477.67,
+        "Shape__Length": 32157.98548
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.26139,
+          38.64474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 21,
+        "Address": "212 South Grand Blvd.",
+        "X": 38.63267,
+        "Y": -90.2338,
+        "NHD_NUM": 37,
+        "NHD_NAME": "Midtown",
+        "ANGLE": 0,
+        "NHD_NUMTXT": "37 Midtown",
+        "NHD_NUM_ST": 37,
+        "Shape__Area": 37701226.7,
+        "Shape__Length": 27928.92454
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2338,
+          38.63267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 22,
+        "Address": "3640 W Pine Mall Blvd",
+        "X": 38.63623,
+        "Y": -90.23526,
+        "NHD_NUM": 37,
+        "NHD_NAME": "Midtown",
+        "ANGLE": 0,
+        "NHD_NUMTXT": "37 Midtown",
+        "NHD_NUM_ST": 37,
+        "Shape__Area": 37701226.7,
+        "Shape__Length": 27928.92454
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23526,
+          38.63623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 23,
+        "Address": "1042-A Loughborough Ave.",
+        "X": 38.55806,
+        "Y": -90.26246,
+        "NHD_NUM": 1,
+        "NHD_NAME": "Carondelet",
+        "ANGLE": 0,
+        "NHD_NUMTXT": "  1 Carondelet",
+        "NHD_NUM_ST": 1,
+        "Shape__Area": 36696036.64,
+        "Shape__Length": 35037.28882
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.26246,
+          38.55806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 29,
+        "Address": "1 South Broadway",
+        "X": 38.62513,
+        "Y": -90.19097,
+        "NHD_NUM": 35,
+        "NHD_NAME": "Downtown",
+        "ANGLE": 0,
+        "NHD_NUMTXT": "35 Downtown",
+        "NHD_NUM_ST": 35,
+        "Shape__Area": 28793630.5,
+        "Shape__Length": 22821.35158
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.19097,
+          38.62513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 30,
+        "Address": "827 Washington Ave",
+        "X": 38.63056,
+        "Y": -90.19185,
+        "NHD_NUM": 35,
+        "NHD_NAME": "Downtown",
+        "ANGLE": 0,
+        "NHD_NUMTXT": "35 Downtown",
+        "NHD_NUM_ST": 35,
+        "Shape__Area": 28793630.5,
+        "Shape__Length": 22821.35158
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.19185,
+          38.63056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 31,
+        "Address": "521 Olive Street",
+        "X": 38.62818,
+        "Y": -90.18994,
+        "NHD_NUM": 35,
+        "NHD_NAME": "Downtown",
+        "ANGLE": 0,
+        "NHD_NUMTXT": "35 Downtown",
+        "NHD_NUM_ST": 35,
+        "Shape__Area": 28793630.5,
+        "Shape__Length": 22821.35158
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.18994,
+          38.62818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 32,
+        "Address": "315 Chestnut St",
+        "X": 38.62561,
+        "Y": -90.18735,
+        "NHD_NUM": 35,
+        "NHD_NAME": "Downtown",
+        "ANGLE": 0,
+        "NHD_NUMTXT": "35 Downtown",
+        "NHD_NUM_ST": 35,
+        "Shape__Area": 28793630.5,
+        "Shape__Length": 22821.35158
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.18735,
+          38.62561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Join_Count": 1,
+        "TARGET_FID": 53,
+        "Address": "421 Lafayette Center",
+        "X": 38.6086025,
+        "Y": -90.1987253,
+        "NHD_NUM": 20,
+        "NHD_NAME": "Kosciusko",
+        "ANGLE": 0,
+        "NHD_NUMTXT": "20 Kosciusko",
+        "NHD_NUM_ST": 20,
+        "Shape__Area": 29751929.04,
+        "Shape__Length": 26994.81351
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1987253,
+          38.6086025
+        ]
+      }
+    }
+  ]
+}
